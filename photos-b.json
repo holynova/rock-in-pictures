@@ -1,0 +1,142 @@
+[
+  {
+    "id": "11",
+    "name": "唐朝",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-99b1ceaa-4c0e-41cc-ac49-22926568dd1e.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/11.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. An empty ancient Chinese Tang-style palace courtyard in morning mist, a single historical court dancer seen very small from behind in muted rust-red silk robe, long sleeves stirred by wind, monumental wooden pillars frame the scene, elegant architectural photography, no fantasy, soft pearl light. Vertical portrait exact 2:3 aspect ratio, high-end fine art photography, masterful composition, optical realism, natural tactile textures, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "12",
+    "name": "逃跑计划",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-aaa2197b-e11f-435e-bdf9-4e17a1ae0787.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/12.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A modest dark bedroom at dawn, open window reveals pale sky, a bedsheet rope tied securely to the bedpost leads through the window, small packed suitcase on floor. Carefully staged cinematic photographic still life, oblique composition, cool dawn and tiny warm bedside light, no people, no text. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "13",
+    "name": "落日飞车",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-136d0ca5-559e-4e1d-aa47-a814f4eebc1f.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/13.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A weathered vintage cream coupe suspended just a meter above an empty coastal road, low orange sunset exactly behind it, car wheels airborne, physically convincing light and shadow, wide surroundings framed vertically, subdued film colors, a poetic surreal automotive editorial photograph, no driver visible. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "14",
+    "name": "草东没有派对",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-2c35230e-cf43-4d21-900c-e9431ab300d0.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/14.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. An abandoned outdoor gathering in an overgrown grass field at early dawn: an empty folding table, two fallen paper cups, one deflated balloon caught in grass, no people. Eastern horizon washed with faint sunrise, quiet environmental documentary photograph, vast breathing room, restrained muted olive and mist. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "15",
+    "name": "茄子蛋",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-98ca1402-5344-4681-9335-d7e852bcee85.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/15.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. One deep purple eggplant and one white hen egg resting together on a dark worn kitchen table. Single soft window side light, sculptural organic shapes, deep violet black and luminous ivory, museum-quality restrained still-life photograph, generous dark negative space, no other food. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "16",
+    "name": "椅子乐团",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-248e4000-a70f-4a30-9052-3f841cb18756.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/16.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. Three mismatched wooden chairs stand in a loosely rhythmic arc on a bare empty theater stage. A shaft of dusty side light brushes their seats. Quiet black-and-white large-format interior photograph, striking geometric negative space, no musical instruments or people. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "17",
+    "name": "告五人",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-a4c3cc5c-0b2a-494a-8d19-dfeca46424e8.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/17.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. Exactly five adults stand far apart on the broad steps of a brutalist civic building, one foreground hand holds an open folded blank letter aimed toward them, shallow but sufficiently legible depth, restrained humanist documentary in black and white, graphic architecture, no printed words, no additional people. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "18",
+    "name": "旅行团",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-82b0fb1d-d1a4-4adf-8011-c4e75ed561fe.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/18.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A small group of six travelers carrying worn suitcases waits at a deserted rural bus stop in western China, backs toward camera, misty mountain distance, no bus. Editorial humanist travel photograph, individuals placed as careful rhythm along bottom third, faded sage and warm gray, morning light, blank stop sign. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "19",
+    "name": "声音玩具",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-43671896-a464-4178-8cf9-18903d6db5f7.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/19.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. An old colorful tin toy robot and a small wind-up music box on an empty worn wooden floor, golden window light, the tiny mechanism and patina visible, quiet nostalgic still-life photograph, muted colors with one scarlet detail, ample empty wall, shallow selective focus, no labels. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "20",
+    "name": "盘尼西林",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-9f36795b-0d63-48fc-8521-ad29909b8327.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/20.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. One unlabeled vintage amber glass antibiotic vial beside a carefully placed old metal syringe on a white linen surface in a quiet empty clinic. Clean natural window light, pale cyan shadows, intimate clinical still life, fine glass reflections, high aesthetic restraint, no lettering, no person. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, real tactile textures. No illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  }
+]

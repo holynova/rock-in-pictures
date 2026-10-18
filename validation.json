@@ -1,0 +1,198 @@
+{
+  "photos": [
+    {
+      "id": "01",
+      "name": "二手玫瑰",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "02",
+      "name": "橘子海",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "03",
+      "name": "新裤子",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "04",
+      "name": "刺猬",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "05",
+      "name": "痛仰",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "06",
+      "name": "万能青年旅店",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "07",
+      "name": "五条人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "08",
+      "name": "海龟先生",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "09",
+      "name": "木马",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "10",
+      "name": "黑豹",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "11",
+      "name": "唐朝",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "12",
+      "name": "逃跑计划",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "13",
+      "name": "落日飞车",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "14",
+      "name": "草东没有派对",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "15",
+      "name": "茄子蛋",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "16",
+      "name": "椅子乐团",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "17",
+      "name": "告五人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "18",
+      "name": "旅行团",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "19",
+      "name": "声音玩具",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "20",
+      "name": "盘尼西林",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "21",
+      "name": "九连真人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "22",
+      "name": "回春丹",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "23",
+      "name": "霓虹花园",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "24",
+      "name": "丢火车",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "25",
+      "name": "白皮书",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "26",
+      "name": "超级市场",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "27",
+      "name": "鸭打鹅",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "28",
+      "name": "太极",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "29",
+      "name": "面孔",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "30",
+      "name": "指南针",
+      "width": 1024,
+      "height": 1536
+    }
+  ],
+  "uniquePhotos": 30,
+  "assetsHttpChecked": 90,
+  "browserChecks": [
+    "Answers initially hidden",
+    "Wrong guess feedback",
+    "3-second delayed reveal",
+    "Countdown cancelled when navigating",
+    "Traditional Chinese name accepted after correction",
+    "Progress persists after reload",
+    "Revealed filter shows only revealed cards",
+    "390px viewport no horizontal overflow"
+  ],
+  "imageGeneration": "built-in ImageGen",
+  "status": "passed"
+}

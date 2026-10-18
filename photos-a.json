@@ -1,0 +1,127 @@
+{
+  "mode": "built-in ImageGen",
+  "validation": "All ten visually inspected; all 1024x1536 exact 2:3. Photo 07 has exactly five people.",
+  "prompt_source": "content.json: scene for IDs 01-10; each augmented with fine-art photographic lighting/composition, vertical exact 2:3, optical realism, no illustration/CGI, no text/watermark.",
+  "assets": [
+    {
+      "id": "01",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-f56fa150-6c06-4ec5-9e26-2f6796949e29.png",
+      "name": "二手玫瑰",
+      "prompt": "At an old Chinese flea market, two weathered hands pass one slightly wilted red rose between them above a scratched wooden counter. Quiet documentary closeup, rose in lower third, blurred empty market behind, soft dawn side light, muted earthy colors, analog grain. No price signs. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/01.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "02",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-6ba009d7-ab8c-4dd0-9f4c-2b16a17f3891.png",
+      "name": "橘子海",
+      "prompt": "A single vivid orange fruit floats in an immense still pale blue sea, distant horizon very high, subtle rings of ripples, overcast silver light. Minimalist large-format seascape, fruit tiny but recognizable in lower third, nuanced cyan and orange, extremely quiet. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/02.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "03",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-04154f6a-83fa-42f0-b58a-b05b1471bca4.png",
+      "name": "新裤子",
+      "prompt": "A pristine pair of indigo jeans hangs from a thin clothesline across a bare warm white courtyard wall. Crisp sunlight casts a sculptural long shadow; no person, no other laundry, minimalist fashion editorial, deep indigo, bone white, fine natural texture. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/03.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "04",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-51730423-afef-4f19-bc9b-bfdff8e1f0ee.png",
+      "name": "刺猬",
+      "prompt": "A real small hedgehog on a vast dark wet rural road at night, illuminated by a soft narrow beam from outside frame, its fine spines rim-lit, low viewpoint, deep black-and-white documentary wildlife photograph, a small vulnerable creature in immense negative space. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/04.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "05",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-52492cbb-04f4-4190-af23-efaf116e759b.png",
+      "name": "痛仰",
+      "prompt": "Black and white humanist street photograph: a lone adult man in a rain-soaked empty courtyard, head tilted back toward rain, eyes closed, taut neck and exhausted expression, hands loose at sides. Strong overhead shaft of diffused light, dignified restrained emotional intensity, environmental portrait, no injury. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/05.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "06",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-bc9b3bb0-8890-44c5-a8e4-09a6e0dee1d2.png",
+      "name": "万能青年旅店",
+      "prompt": "A modest old youth hostel at blue hour in a Chinese industrial town, one warmly lit upstairs window with a young traveler silhouette, worn facade, a bicycle and backpack by entrance, narrow building centered amid empty street, cinematic yet truthful architectural documentary, no signs or letters. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/06.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "07",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-21585075-41e4-4b89-b864-1ef50feb9d2c.png",
+      "name": "五条人",
+      "prompt": "Exactly five distant adults walking separately along a broad concrete sea wall, photographed from a high oblique angle, their five long shadows form a rhythm across pale surface. Black-and-white coastal humanist photography, sparse composition, natural hard afternoon light. Exactly five people, no others. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/07.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "08",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-e5c4e340-be10-402a-9e2d-94cdb0dd8196.png",
+      "name": "海龟先生",
+      "prompt": "A lifelike sea turtle swims elegantly through dark teal sea water, wearing only a tiny believable black bow tie at its neck. Underwater fine art wildlife photograph, turtle side-profile in lower half, a single soft column of sunlight, realistic shell, suspended particles, subtly surreal and dignified. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/08.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "09",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-3c12b134-1546-4574-983b-7b0152fd088c.png",
+      "name": "木马",
+      "prompt": "One antique wooden rocking horse in a cavernous abandoned apartment room, peeling pale walls, dusty floor, a narrow warm window beam lights the wooden mane and worn saddle. Large-format quiet still life, asymmetric composition, muted umber and cool gray, deep shadows. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/09.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "10",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-85aad341-2e24-4cb0-945e-81256ffcd16d.png",
+      "name": "黑豹",
+      "prompt": "A real black panther almost disappearing into deep black forest shadows, only amber eyes and soft rim light revealing its black fur profile. Fine art wildlife portrait, face placed in bottom third, dark negative space above, subtle texture, restrained and powerful, no fantasy eyes. Vertical portrait exact 2:3 aspect ratio. High-end fine art photography, masterful composition, optical realism, no illustration/CGI, no text no watermark.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/10.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    }
+  ]
+}
