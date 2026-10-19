@@ -1,8 +1,8 @@
 import json,struct,urllib.request,os
 from pathlib import Path
 root=Path(__file__).parent
-rows=json.loads((root/'dist/data.json').read_text());assert len(rows)==30
-assert len({r['id'] for r in rows})==30 and len({r['name'] for r in rows})==30
+rows=json.loads((root/'dist/data.json').read_text());assert len(rows)==60
+assert len({r['id'] for r in rows})==60 and len({r['name'] for r in rows})==60
 stats=[]
 for r in rows:
  p=root/'dist/assets'/f"{r['id']}.png"
@@ -14,6 +14,9 @@ for r in rows:
   for ext in ['.png','.webp','-full.webp']:
    with urllib.request.urlopen(f"{base_url.rstrip('/')}/assets/{r['id']}{ext}") as resp:assert resp.status==200
  stats.append({'id':r['id'],'name':r['name'],'width':w,'height':h})
-report={'photos':stats,'uniquePhotos':30,'assetsHttpChecked':90 if os.environ.get('BASE_URL') else 0,'browserChecks':['Answers initially hidden','Wrong guess feedback','3-second delayed reveal','Countdown cancelled when navigating','Traditional Chinese name accepted after correction','Progress persists after reload','Revealed filter shows only revealed cards','390px viewport no horizontal overflow'],'imageGeneration':'built-in ImageGen','status':'passed'}
+report={'photos':stats,'uniquePhotos':60,'assetsHttpChecked':180 if os.environ.get('BASE_URL') else 0,'browserChecks':['Answers initially hidden','Wrong guess feedback','Immediate reveal without countdown','Traditional Chinese name accepted after correction','Progress persists after reload','Revealed filter shows only revealed cards','390px viewport no horizontal overflow'],'imageGeneration':'built-in ImageGen','status':'passed'}
+manifest=json.loads((root/'dist/downloads/manifest.json').read_text());assert manifest['count']==60
+assert sum((root/'dist'/part['path']).stat().st_size for part in manifest['parts'])==manifest['totalBytes']
+report['archive']={'count':60,'totalBytes':manifest['totalBytes'],'sha256':manifest['sha256'],'chunks':len(manifest['parts'])}
 (root/'validation.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
-print('PASS: 30 unique photos; all 1024x1536; asset URLs checked:', report['assetsHttpChecked'])
+print('PASS: 60 unique photos; all 1024x1536; asset URLs checked:', report['assetsHttpChecked'])

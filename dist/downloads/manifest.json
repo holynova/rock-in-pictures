@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "count": 60,
+  "filename": "sound-in-sight-60-photos.zip",
+  "totalBytes": 152402033,
+  "sha256": "91fce6ea41210881d90cfcec47a68684203855febb32ef8db0ec876066acb550",
+  "parts": [
+    {
+      "path": "downloads/parts/91fce6ea4121-001.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-002.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-003.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-004.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-005.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-006.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-007.bin",
+      "size": 20971520
+    },
+    {
+      "path": "downloads/parts/91fce6ea4121-008.bin",
+      "size": 5601393
+    }
+  ]
+}

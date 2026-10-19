@@ -1,0 +1,142 @@
+[
+  {
+    "id": "41",
+    "name": "钢心",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-510270a1-08ff-465c-bcc1-ae816725bd9d.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/41.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A single anatomically shaped heart sculpture welded entirely from brushed steel rests on a dark industrial workbench, tiny imperfect weld seams and scratch marks, dramatic soft strip of window light, restrained silver and charcoal, high-end tactile still-life photograph, no blood, no gore, not a medical organ. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "42",
+    "name": "反光镜",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-3a7f8776-7f6f-473e-8355-1afa39e5bf68.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/42.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. Close-up of a weathered vehicle side mirror attached to a truck on an empty rural road; the mirror reflects a luminous mountain ridge at sunrise while the surroundings remain in cool shadow, very precise composition, documentary travel photograph, subtle blue and gold, no person or logos. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "43",
+    "name": "扭曲的机器",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-a6834b83-f99c-490c-a674-bfe3a3fa2367.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/43.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. An abandoned vintage industrial machine with a heavily twisted steel frame and bent gears in an empty factory hall, shafts of overcast daylight from high windows, sculptural black-and-white architectural photograph, careful strong diagonals and deep negative space, no disaster victims, realistic metal deformation. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "44",
+    "name": "战斧",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-d6069b20-4bd4-4f26-a206-f531d7797b4a.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/44.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. One ancient weathered iron battle axe stands leaning against a massive rough stone wall, no person, dark ash wood handle, a narrow warm diagonal shaft of light reveals the chipped edge and rust patina, museum-grade fine-art still-life photograph, sculptural minimal composition, no blood or violence. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "45",
+    "name": "Beyond",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-b4e83b3e-5160-4d2a-a560-50f5831788ed.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/45.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A lone adult traveler stands just beyond a huge empty weathered concrete doorway on a high cliff, seen small from behind, endless open ocean and pale distant horizon beyond the threshold. Poetic minimalist large-format photograph, soft silver daylight, restrained slate and cream, no lettering or signs. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "46",
+    "name": "火星电台",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-eaeee236-2f9e-4284-a74a-e12fff4a52ff.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/46.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A single vintage portable radio with a long thin antenna sits on an empty red desert dune resembling Mars, pale apricot dust haze and a tiny distant moon, macro-real textures of sand and worn radio knobs, understated surreal fine-art landscape photograph, vast negative space, no labels or readable text. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "47",
+    "name": "水木年华",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-60723183-1716-4d28-be48-0ebdbcac96cd.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/47.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A broad old tree at the edge of a still lake beside a quiet Chinese university campus, the water perfectly reflects its branching silhouette, two distant adult students leave an empty wooden bench, soft late spring morning haze, nostalgic fine-art humanist landscape photograph, muted jade and warm gray. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "48",
+    "name": "水晶蝶",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-885a2ab9-e0ca-41d4-8330-3a37f0dfec17.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/48.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. An exquisitely realistic butterfly whose delicate wings appear made of clear natural quartz crystal rests on a rough dark slate, believable insect scale, faint spectral refraction from one narrow side light, fine-art macro still-life photograph, almost monochrome, elegant large dark negative space, no plastic or CGI look. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "49",
+    "name": "脑浊",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-ebcf48fc-75ee-4de7-832c-e312184904ac.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/49.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A clear hollow glass sculpture of a human head filled with dense soft white mist, resting alone on a worn dark desk by a rainy window, subtle condensation and glass reflections, restrained conceptual photographic still life, charcoal and pearl gray, no anatomical gore, no hospital setting, no text. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  },
+  {
+    "id": "50",
+    "name": "五月天",
+    "source": "/Users/sym/.codex/generated_images/01a14fd9-5b8f-7b21-8cbd-546f4337af8d/exec-5a80116a-8889-4ada-8703-3a4203dfce82.png",
+    "path": "/Users/sym/code/rock-in-pictures/dist/assets/50.png",
+    "prompt": "Use case: photorealistic-natural. Asset: standalone fine-art photographic puzzle. A quiet late-spring day in Taiwan: foreground soft white lily-of-the-valley blooms beside a white linen curtain fluttering at an open window, beyond a vast clean warm blue sky and sunlit trees. An unbranded small desk calendar in lower left shows only a large numeral 5, no other legible words. Poetic airy analog photograph, exquisite soft light and negative space. Vertical portrait exact 2:3 aspect ratio, 1024x1536. High-end fine art photography, masterful composition, optical realism, real tactile textures. No band names, no illustration, no CGI, no text except one numeral 5 on calendar, no watermark. Deliver one photograph.",
+    "mode": "built-in image_gen",
+    "verified_nonempty": true,
+    "dimensions": [
+      1024,
+      1536
+    ],
+    "visual_review": "passed"
+  }
+]

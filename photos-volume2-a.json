@@ -1,0 +1,126 @@
+{
+  "mode": "built-in ImageGen",
+  "validation": "All ten 31-40 visually inspected; 36 clock reads 12:00. Originals preserved; existing 01-30 untouched.",
+  "assets": [
+    {
+      "id": "31",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-4d762c40-4d91-4004-a518-872300631cb9.png",
+      "name": "后海大鲨鱼",
+      "prompt": "A giant realistic shark fin silently cuts across a still old Beijing lake at dawn, low hutong roofs and a tiny willow-lined pavilion far behind, mist blurs the city, restrained gray blue and one soft pink reflection, cinematic large-format environmental photograph, fin in lower third, no attack or people. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/31.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "32",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-02494664-bcb9-402f-8525-67e499edf320.png",
+      "name": "重塑雕像的权利",
+      "prompt": "Close documentary view in a sculptor workshop: two dust-covered human hands carefully reattach a broken plaster hand to an unfinished white human statue. Broken plaster fragments on a broad workbench, immense dark background, single high window light, luminous plaster dust, dignified black-and-white fine art photograph, no violence. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/32.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "33",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-cb4788d6-63e4-4b8e-a306-b7f2d86315ef.png",
+      "name": "大波浪",
+      "prompt": "One immense curling ocean wave viewed from a distant empty black-sand shore, no surfers, large pale overcast sky dominates top half, near-monochrome deep navy and pearl white, razor-fine spray caught in side light, minimalist fine-art seascape, naturally photographed with a long lens. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/33.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "34",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-9f8bd534-2b54-40fa-a9c8-aa16740a02f4.png",
+      "name": "花儿",
+      "prompt": "A tiny cluster of wild daisies pushes through a crack in a monumental bare concrete wall, off-center at lower right, soft dawn sunlight creates one long diagonal shadow, quiet botanical architectural photography, bone gray, restrained cream petals and yellow centers, enormous negative space, natural texture. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/34.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "35",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-9c860424-6428-4f1a-aa5e-6967f84f98bd.png",
+      "name": "超载",
+      "prompt": "A small blue three-wheeled farm truck impossibly yet believably piled high with woven bamboo baskets, parked on an empty Chinese rural road, tiny driver resting beside front wheel in shade. Humanist editorial photograph, immense piled load against pale sky, muted earth palette, hard midday light softened by dust. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/35.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "36",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-89e5bdfc-8060-474c-ac97-27c953443b3f.png",
+      "name": "零点",
+      "prompt": "An old unbranded round wall clock with both hands precisely pointing straight up at twelve, alone on the wall of an empty late-night train waiting room, one chair far below, rain-dark window, black-and-white architectural still-life photograph, quiet midnight atmosphere, only clock numerals allowed, no other text. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/36.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "37",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-3b4897cd-4b63-4025-b3a9-5a32919dfca8.png",
+      "name": "轮回",
+      "prompt": "A single continuous circular trail of human footprints across a vast unbroken snowfield, viewed vertically from above, no person visible, subtle winter sidelight, monochrome fine-art landscape photograph with delicate gray shadows, perfect emptiness beyond the imperfect circle. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/37.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "38",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-a6d75f08-7858-4bb0-a946-553b5f1b38fb.png",
+      "name": "瘦人",
+      "prompt": "A very slender adult Chinese man in a simple white cotton shirt stands in the narrow gap between two immense old brick walls, full length at a distance, long slim shadow, dignified humanist black-and-white street photograph, no exaggerated anatomy, quiet direct stance, hard grazing afternoon light. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/38.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "39",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-e6394c45-b56d-4d83-ad45-90b5e2398a0b.png",
+      "name": "低苦艾",
+      "prompt": "Low close viewpoint across silver-green wormwood shrubs growing very low against a vast dry northwest China plain, one small old wooden tea bowl filled with dark bitter herbal infusion sits near the plant, hazy distant mountains, muted sage and ochre, finely textured poetic landscape still-life, soft evening light. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/39.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    },
+    {
+      "id": "40",
+      "source": "/Users/sym/.codex/generated_images/01a14fd9-4807-7ad2-af66-260ebf184e9d/exec-6cdcb2e7-02ce-4d39-865e-5349481afc9d.png",
+      "name": "麻园诗人",
+      "prompt": "An anonymous adult poet seen from behind at a small worn desk in an old courtyard overgrown with ramie plants, blank loose paper, afternoon shadows cast delicate leaf patterns on a pale wall, quiet humanist environmental photograph, muted green and warm paper tones, no readable text. Exact portrait 1024x1536 pixels, 2:3. High-end fine art photography, masterful composition, optical realism, no band names, no illustration/CGI, no watermark. No text except clock numerals in36.",
+      "path": "/Users/sym/code/rock-in-pictures/dist/assets/40.png",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "visually_verified": true
+    }
+  ]
+}

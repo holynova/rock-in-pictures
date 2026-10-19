@@ -179,20 +179,205 @@
       "name": "指南针",
       "width": 1024,
       "height": 1536
+    },
+    {
+      "id": "31",
+      "name": "后海大鲨鱼",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "32",
+      "name": "重塑雕像的权利",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "33",
+      "name": "大波浪",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "34",
+      "name": "花儿",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "35",
+      "name": "超载",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "36",
+      "name": "零点",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "37",
+      "name": "轮回",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "38",
+      "name": "瘦人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "39",
+      "name": "低苦艾",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "40",
+      "name": "麻园诗人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "41",
+      "name": "钢心",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "42",
+      "name": "反光镜",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "43",
+      "name": "扭曲的机器",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "44",
+      "name": "战斧",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "45",
+      "name": "Beyond",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "46",
+      "name": "火星电台",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "47",
+      "name": "水木年华",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "48",
+      "name": "水晶蝶",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "49",
+      "name": "脑浊",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "50",
+      "name": "五月天",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "51",
+      "name": "大象体操",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "52",
+      "name": "宇宙人",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "53",
+      "name": "灭火器",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "54",
+      "name": "皇后皮箱",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "55",
+      "name": "甜约翰",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "56",
+      "name": "海豚刑警",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "57",
+      "name": "温室杂草",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "58",
+      "name": "铁树兰",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "59",
+      "name": "秋红",
+      "width": 1024,
+      "height": 1536
+    },
+    {
+      "id": "60",
+      "name": "逆流",
+      "width": 1024,
+      "height": 1536
     }
   ],
-  "uniquePhotos": 30,
+  "uniquePhotos": 60,
   "assetsHttpChecked": 0,
   "browserChecks": [
     "Answers initially hidden",
     "Wrong guess feedback",
-    "3-second delayed reveal",
-    "Countdown cancelled when navigating",
+    "Immediate reveal without countdown",
     "Traditional Chinese name accepted after correction",
     "Progress persists after reload",
     "Revealed filter shows only revealed cards",
     "390px viewport no horizontal overflow"
   ],
   "imageGeneration": "built-in ImageGen",
-  "status": "passed"
+  "status": "passed",
+  "archive": {
+    "count": 60,
+    "totalBytes": 152402033,
+    "sha256": "91fce6ea41210881d90cfcec47a68684203855febb32ef8db0ec876066acb550",
+    "chunks": 8
+  }
 }

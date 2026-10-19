@@ -328,5 +328,335 @@
     "aliases": [
       "指南针乐队"
     ]
+  },
+  {
+    "id": "31",
+    "name": "后海大鲨鱼",
+    "region": "内地",
+    "genre": "舞曲摇滚 / 独立摇滚",
+    "hint": "平静的湖面下，藏着海的访客。",
+    "scene": "A giant realistic shark fin silently cuts across a still old Beijing lake at dawn, low hutong roofs and a tiny willow-lined pavilion far behind, mist blurs the city, restrained gray blue and one soft pink reflection, cinematic large-format environmental photograph, fin in lower third, no attack or people.",
+    "aliases": [
+      "后海大鲨鱼乐队"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "重塑雕像的权利",
+    "region": "内地",
+    "genre": "后朋克 / 实验摇滚",
+    "hint": "破碎的形状，也有重新站立的权利。",
+    "scene": "Close documentary view in a sculptor workshop: two dust-covered human hands carefully reattach a broken plaster hand to an unfinished white human statue. Broken plaster fragments on a broad workbench, immense dark background, single high window light, luminous plaster dust, dignified black-and-white fine art photograph, no violence.",
+    "aliases": [
+      "重塑雕像的权利乐队"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "大波浪",
+    "region": "内地",
+    "genre": "新浪潮 / 电子摇滚",
+    "hint": "让海，写出一个巨大的逗号。",
+    "scene": "One immense curling ocean wave viewed from a distant empty black-sand shore, no surfers, large pale overcast sky dominates top half, near-monochrome deep navy and pearl white, razor-fine spray caught in side light, minimalist fine-art seascape, naturally photographed with a long lens.",
+    "aliases": [
+      "大波浪乐队"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "花儿",
+    "region": "内地",
+    "genre": "流行朋克 / 流行摇滚",
+    "hint": "最普通的花，也有自己的春天。",
+    "scene": "A tiny cluster of wild daisies pushes through a crack in a monumental bare concrete wall, off-center at lower right, soft dawn sunlight creates one long diagonal shadow, quiet botanical architectural photography, bone gray, restrained cream petals and yellow centers, enormous negative space, natural texture.",
+    "aliases": [
+      "花儿乐队"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "超载",
+    "region": "内地",
+    "genre": "重金属",
+    "hint": "负重前行，有时是一整座小山。",
+    "scene": "A small blue three-wheeled farm truck impossibly yet believably piled high with woven bamboo baskets, parked on an empty Chinese rural road, tiny driver resting beside front wheel in shade. Humanist editorial photograph, immense piled load against pale sky, muted earth palette, hard midday light softened by dust.",
+    "aliases": [
+      "超载乐队"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "零点",
+    "region": "内地",
+    "genre": "流行摇滚",
+    "hint": "一天在这里，轻轻翻了页。",
+    "scene": "An old unbranded round wall clock with both hands precisely pointing straight up at twelve, alone on the wall of an empty late-night train waiting room, one chair far below, rain-dark window, black-and-white architectural still-life photograph, quiet midnight atmosphere, only clock numerals allowed, no other text.",
+    "aliases": [
+      "零点乐队"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "轮回",
+    "region": "内地",
+    "genre": "摇滚",
+    "hint": "走到最后，又遇见最初的脚印。",
+    "scene": "A single continuous circular trail of human footprints across a vast unbroken snowfield, viewed vertically from above, no person visible, subtle winter sidelight, monochrome fine-art landscape photograph with delicate gray shadows, perfect emptiness beyond the imperfect circle.",
+    "aliases": [
+      "轮回乐队"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "瘦人",
+    "region": "内地",
+    "genre": "放克摇滚 / 硬摇滚",
+    "hint": "一个身影，撑起一条长街。",
+    "scene": "A very slender adult Chinese man in a simple white cotton shirt stands in the narrow gap between two immense old brick walls, full length at a distance, long slim shadow, dignified humanist black-and-white street photograph, no exaggerated anatomy, quiet direct stance, hard grazing afternoon light.",
+    "aliases": [
+      "瘦人乐队"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "低苦艾",
+    "region": "内地",
+    "genre": "民谣摇滚",
+    "hint": "荒地上的植物，贴着风低低生长。",
+    "scene": "Low close viewpoint across silver-green wormwood shrubs growing very low against a vast dry northwest China plain, one small old wooden tea bowl filled with dark bitter herbal infusion sits near the plant, hazy distant mountains, muted sage and ochre, finely textured poetic landscape still-life, soft evening light.",
+    "aliases": [
+      "低苦艾乐队"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "麻园诗人",
+    "region": "内地",
+    "genre": "独立摇滚",
+    "hint": "有人在植物深处，写一首没有字的诗。",
+    "scene": "An anonymous adult poet seen from behind at a small worn desk in an old courtyard overgrown with ramie plants, blank loose paper, afternoon shadows cast delicate leaf patterns on a pale wall, quiet humanist environmental photograph, muted green and warm paper tones, no readable text.",
+    "aliases": [
+      "麻园诗人乐队"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "钢心",
+    "region": "内地",
+    "genre": "摇滚 / 硬摇滚",
+    "hint": "柔软的形状，坚硬的回声。",
+    "scene": "A single anatomically shaped heart sculpture welded entirely from brushed steel rests on a dark industrial workbench, tiny imperfect weld seams and scratch marks, dramatic soft strip of window light, restrained silver and charcoal, high-end tactile still-life photograph, no blood, no gore, not a medical organ.",
+    "aliases": [
+      "钢心乐队"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "反光镜",
+    "region": "内地",
+    "genre": "朋克摇滚",
+    "hint": "回头看，风景住进一小块玻璃。",
+    "scene": "Close-up of a weathered vehicle side mirror attached to a truck on an empty rural road; the mirror reflects a luminous mountain ridge at sunrise while the surroundings remain in cool shadow, very precise composition, documentary travel photograph, subtle blue and gold, no person or logos.",
+    "aliases": [
+      "反光镜乐队"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "扭曲的机器",
+    "region": "内地",
+    "genre": "新金属",
+    "hint": "齿轮还在，但秩序已经改变。",
+    "scene": "An abandoned vintage industrial machine with a heavily twisted steel frame and bent gears in an empty factory hall, shafts of overcast daylight from high windows, sculptural black-and-white architectural photograph, careful strong diagonals and deep negative space, no disaster victims, realistic metal deformation.",
+    "aliases": [
+      "扭曲的机器乐队"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "战斧",
+    "region": "内地",
+    "genre": "重金属",
+    "hint": "沉默的刃，留着时间的纹理。",
+    "scene": "One ancient weathered iron battle axe stands leaning against a massive rough stone wall, no person, dark ash wood handle, a narrow warm diagonal shaft of light reveals the chipped edge and rust patina, museum-grade fine-art still-life photograph, sculptural minimal composition, no blood or violence.",
+    "aliases": [
+      "战斧乐队"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Beyond",
+    "region": "香港",
+    "genre": "摇滚",
+    "hint": "跨过眼前，才看见更远的地方。",
+    "scene": "A lone adult traveler stands just beyond a huge empty weathered concrete doorway on a high cliff, seen small from behind, endless open ocean and pale distant horizon beyond the threshold. Poetic minimalist large-format photograph, soft silver daylight, restrained slate and cream, no lettering or signs.",
+    "aliases": [
+      "Beyond乐队"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "火星电台",
+    "region": "内地",
+    "genre": "独立摇滚 / 电子",
+    "hint": "有一段声音，来自红色荒原。",
+    "scene": "A single vintage portable radio with a long thin antenna sits on an empty red desert dune resembling Mars, pale apricot dust haze and a tiny distant moon, macro-real textures of sand and worn radio knobs, understated surreal fine-art landscape photograph, vast negative space, no labels or readable text.",
+    "aliases": [
+      "火星电台乐队"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "水木年华",
+    "region": "内地",
+    "genre": "校园民谣 / 民谣摇滚",
+    "hint": "水边的树，把青春记成了年轮。",
+    "scene": "A broad old tree at the edge of a still lake beside a quiet Chinese university campus, the water perfectly reflects its branching silhouette, two distant adult students leave an empty wooden bench, soft late spring morning haze, nostalgic fine-art humanist landscape photograph, muted jade and warm gray.",
+    "aliases": [
+      "水木年华乐队"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "水晶蝶",
+    "region": "内地",
+    "genre": "迷幻摇滚",
+    "hint": "透明的翅膀，接住一束光。",
+    "scene": "An exquisitely realistic butterfly whose delicate wings appear made of clear natural quartz crystal rests on a rough dark slate, believable insect scale, faint spectral refraction from one narrow side light, fine-art macro still-life photograph, almost monochrome, elegant large dark negative space, no plastic or CGI look.",
+    "aliases": [
+      "水晶蝶乐队"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "脑浊",
+    "region": "内地",
+    "genre": "朋克摇滚",
+    "hint": "想法在雾里，暂时找不到出口。",
+    "scene": "A clear hollow glass sculpture of a human head filled with dense soft white mist, resting alone on a worn dark desk by a rainy window, subtle condensation and glass reflections, restrained conceptual photographic still life, charcoal and pearl gray, no anatomical gore, no hospital setting, no text.",
+    "aliases": [
+      "脑浊乐队"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "五月天",
+    "region": "台湾",
+    "genre": "流行摇滚",
+    "hint": "第五个月，抬头看。",
+    "scene": "A quiet late-spring day in Taiwan: foreground soft white lily-of-the-valley blooms beside a white linen curtain fluttering at an open window, beyond a vast clean warm blue sky and sunlit trees. An unbranded small desk calendar in lower left shows only a large numeral 5, no other legible words. Poetic airy analog photograph, exquisite soft light and negative space.",
+    "aliases": [
+      "五月天乐队"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "大象体操",
+    "region": "台湾",
+    "genre": "数学摇滚",
+    "hint": "庞大的身体，也能画出轻巧的弧线。",
+    "scene": "A real elephant gently extends one foreleg and lifts its trunk in a balanced stretch on an empty pale sandy plain, no trainer, no circus props, no distress, wide environmental wildlife photograph, graceful geometric silhouette in lower third, soft dawn side light, subdued gray and beige, optically realistic.",
+    "aliases": [
+      "大象体操乐队"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "宇宙人",
+    "region": "台湾",
+    "genre": "放克 / 流行摇滚",
+    "hint": "一个人，站在夜空的中央。",
+    "scene": "A lone astronaut in a realistic worn white space suit stands on a dark rocky plateau under an immense star-filled sky, back toward camera, subtle moonlight reveals dust and fabric, restrained astrophotographic realism, large negative space, no sci-fi city, no glowing gadgets or lettering.",
+    "aliases": [
+      "宇宙人乐队"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "灭火器",
+    "region": "台湾",
+    "genre": "朋克摇滚",
+    "hint": "火熄灭以后，红色仍然醒着。",
+    "scene": "One old red fire extinguisher stands alone against a vast smoke-gray concrete wall in an empty industrial corridor, a thin trace of extinguishing powder on the floor, no flame or people, one soft side-light window, masterful minimalist documentary still life, only one muted red color accent, no labels.",
+    "aliases": [
+      "灭火器乐队"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "皇后皮箱",
+    "region": "台湾",
+    "genre": "迷幻摇滚",
+    "hint": "远行的箱子里，住着一点王冠的重量。",
+    "scene": "An antique worn leather suitcase sits open on the floor of a deserted faded palace dressing room, a modest old silver queen crown rests inside on aged velvet, no people, tall curtained window casts soft diagonal light, warm umber and faded rose, refined cinematic still-life photograph, no text.",
+    "aliases": [
+      "皇后皮箱乐队"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "甜约翰",
+    "region": "台湾",
+    "genre": "独立流行 / 数学摇滚",
+    "hint": "把甜，留给一个不具名的人。",
+    "scene": "An anonymous adult man in a plain dark suit seen only from shoulders down holds a tiny white plate with a single sugar-dusted pastry, standing alone in a nearly empty old cafe, soft morning window light, muted cream and coffee brown, tender understated humanist editorial photograph, no name labels or visible face.",
+    "aliases": [
+      "甜约翰乐队"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "海豚刑警",
+    "region": "台湾",
+    "genre": "独立摇滚",
+    "hint": "海面之下，也有一位守夜的人。",
+    "scene": "A real bottlenose dolphin in deep dark blue seawater, a tiny realistic silver detective badge is attached to a simple dark strap near its upper torso without restricting movement, one soft underwater shaft of light, refined surreal wildlife photograph, realistic dolphin skin, calm and dignified, no letters on badge.",
+    "aliases": [
+      "海豚刑警乐队"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "温室杂草",
+    "region": "台湾",
+    "genre": "独立摇滚",
+    "hint": "被照料的地方，也长出不被安排的生命。",
+    "scene": "An abandoned glass greenhouse at early dawn, wild weeds rise through cracked concrete floor beneath orderly empty planting benches, windows covered in soft condensation, long muted green perspective, understated fine-art architectural photograph, subtle pearl light, no people, no potted ornamental flowers.",
+    "aliases": [
+      "温室杂草乐队"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "铁树兰",
+    "region": "香港",
+    "genre": "重型摇滚",
+    "hint": "铁的骨架里，长出一朵花。",
+    "scene": "A delicate real white orchid grows from the split trunk of a cycad plant, its woody trunk partly resembling weathered iron, in a very sparse shadowed courtyard, botanical fine-art photograph, sculptural leaf shadows, green-black and ivory, one narrow beam of late afternoon light, natural believable textures.",
+    "aliases": [
+      "铁树兰乐队"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "秋红",
+    "region": "香港",
+    "genre": "重型摇滚",
+    "hint": "秋天只留下了这一片红。",
+    "scene": "One vivid red autumn maple leaf suspended from a nearly bare branch over a still dark pond, faint red reflection below, far background entirely soft charcoal, exquisite minimalist natural fine-art photograph, restrained color, soft overcast light and generous negative space.",
+    "aliases": [
+      "秋红乐队"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "逆流",
+    "region": "香港",
+    "genre": "重型摇滚",
+    "hint": "水往前走，它选择了另一边。",
+    "scene": "A single fish swims upstream against a visibly flowing shallow mountain stream, photographed from directly above, smooth pale river stones and silver diagonal current lines, one dark fish as focal point, decisive-moment fine-art wildlife photograph, muted monochrome green-gray, no fishing equipment or text.",
+    "aliases": [
+      "逆流乐队"
+    ]
   }
 ]
