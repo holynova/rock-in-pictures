@@ -182,7 +182,7 @@
     }
   ],
   "uniquePhotos": 30,
-  "assetsHttpChecked": 90,
+  "assetsHttpChecked": 0,
   "browserChecks": [
     "Answers initially hidden",
     "Wrong guess feedback",

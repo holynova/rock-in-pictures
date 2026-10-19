@@ -8,7 +8,7 @@ English: Guess 30 Chinese rock and indie bands from original AI-created photogra
 
 ## 在线体验 / Live Demo
 
-- [Cloudflare Demo（待上线验证）](https://rock-in-pictures.xiaosang.cc/)
+- [Cloudflare Demo（待上线验证）](https://xiaosang.cc/rock-in-pictures/)
 - [GitHub Repo](https://github.com/holynova/rock-in-pictures)
 
 <img src="./assets/qr.png" width="180" alt="扫码打开听见画面 / Scan to open Sound in Sight">
@@ -29,7 +29,7 @@ npm run deploy:check
 npm run deploy
 ```
 
-Cloudflare Workers Static Assets · `rock-in-pictures.xiaosang.cc`
+Cloudflare Workers Static Assets · `xiaosang.cc/rock-in-pictures/`
 
 源码与部署配置均在 `main`；从同一提交本地手动发布，无Cloudflare自动部署工作流。
 Source and deployment configuration share `main`; deploy manually from the same commit.
