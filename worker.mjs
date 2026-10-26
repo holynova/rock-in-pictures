@@ -20,34 +20,41 @@ async function downloadArchive(request, env) {
   const headers = {
     'Content-Type': 'application/zip',
     'Content-Disposition': 'attachment; filename="sound-in-sight-60-photos.zip"',
-    'Content-Length': String(manifest.totalBytes),
     'Cache-Control': 'public, max-age=0, must-revalidate',
     'X-Content-Type-Options': 'nosniff'
   };
-  if (request.method === 'HEAD') return new Response(null, { headers });
-  let index = 0;
-  let reader;
-  const body = new ReadableStream({
-    async pull(controller) {
-      try {
-        while (true) {
-          if (!reader) {
-            if (index === parts.length) { controller.close(); return; }
-            assetUrl.pathname = '/' + parts[index++].path;
-            const response = await env.ASSETS.fetch(new Request(assetUrl));
-            if (!response.ok || !response.body) throw new Error('Archive part unavailable');
-            reader = response.body.getReader();
+  if (request.method === 'HEAD') return new Response(null, { headers: { ...headers, 'Content-Length': String(manifest.totalBytes) } });
+  const stream = typeof FixedLengthStream === 'function'
+    ? new FixedLengthStream(manifest.totalBytes)
+    : new TransformStream();
+  const writer = stream.writable.getWriter();
+  void (async () => {
+    try {
+      for (const part of parts) {
+        assetUrl.pathname = '/' + part.path;
+        const response = await env.ASSETS.fetch(new Request(assetUrl));
+        if (!response.ok || !response.body) throw new Error('Archive part unavailable');
+        const reader = response.body.getReader();
+        let received = 0;
+        try {
+          while (true) {
+            const { value, done } = await reader.read();
+            if (done) break;
+            received += value.byteLength;
+            if (received > part.size) throw new Error('Archive part is larger than its manifest size');
+            await writer.write(value);
           }
-          const { value, done } = await reader.read();
-          if (done) { reader.releaseLock(); reader = undefined; continue; }
-          controller.enqueue(value);
-          return;
+        } finally {
+          reader.releaseLock();
         }
-      } catch (error) { controller.error(error); }
-    },
-    cancel(reason) { return reader?.cancel(reason); }
-  });
-  return new Response(body, { headers });
+        if (received !== part.size) throw new Error('Archive part is incomplete');
+      }
+      await writer.close();
+    } catch (error) {
+      await writer.abort(error).catch(() => {});
+    }
+  })();
+  return new Response(stream.readable, { headers });
 }
 
 export default {
