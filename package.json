@@ -7,8 +7,7 @@
     "dev": "wrangler dev --local --ip 127.0.0.1 --port 4319",
     "check": "node --check dist/app.js && node scripts/check-worker.mjs && python3 validate.py",
     "deploy:check": "wrangler deploy --dry-run --config wrangler.jsonc",
-    "deploy": "wrangler deploy --config wrangler.jsonc",
-    "build:downloads": "python3 scripts/build-downloads.py"
+    "deploy": "wrangler deploy --config wrangler.jsonc"
   },
   "devDependencies": {
     "qrcode": "1.5.4",
