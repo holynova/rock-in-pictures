@@ -373,11 +373,5 @@
     "390px viewport no horizontal overflow"
   ],
   "imageGeneration": "built-in ImageGen",
-  "status": "passed",
-  "archive": {
-    "count": 60,
-    "totalBytes": 152402033,
-    "sha256": "91fce6ea41210881d90cfcec47a68684203855febb32ef8db0ec876066acb550",
-    "chunks": 8
-  }
+  "status": "passed"
 }
