@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">听见画面 Sound in Sight — 60 幅摄影意象，猜 60 支华语乐队</title>
+  <desc id="desc">暖纸底标题：听见画面；右侧是一张 2:3 竖版照片，画着一朵红玫瑰与一个问号，猜猜是哪支乐队。</desc>
+
+  <rect width="1200" height="360" rx="26" fill="#f5f1e8"/>
+
+  <g id="title-block" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="56" y="62" font-size="19" letter-spacing="3" fill="#8c2d23">SOUND IN SIGHT · 60 PHOTOGRAPHIC RIDDLES</text>
+    <text x="56" y="128" font-size="62" font-weight="700" fill="#1c1917">听见画面</text>
+    <text x="56" y="168" font-size="23" fill="#292524">60 幅摄影意象，猜 60 支华语乐队</text>
+    <text x="56" y="204" font-size="19" fill="#57534e">不放音乐，也能听见。先看图猜名字，点击立即揭晓。</text>
+    <g id="chips" font-size="18" fill="#292524" text-anchor="middle">
+      <g><rect x="56" y="238" width="126" height="36" rx="18" fill="#ffffff" stroke="#d6d3d1" stroke-width="1.5"/><text x="119" y="262">60 幅谜面</text></g>
+      <g><rect x="194" y="238" width="108" height="36" rx="18" fill="#ffffff" stroke="#d6d3d1" stroke-width="1.5"/><text x="248" y="262">2:3 竖版</text></g>
+      <g><rect x="314" y="238" width="126" height="36" rx="18" fill="#ffffff" stroke="#d6d3d1" stroke-width="1.5"/><text x="377" y="262">线索 + 随机</text></g>
+      <g><rect x="452" y="238" width="144" height="36" rx="18" fill="#ffffff" stroke="#d6d3d1" stroke-width="1.5"/><text x="524" y="262">全套 ZIP 下载</text></g>
+    </g>
+  </g>
+
+  <g id="photo-motif">
+    <rect x="860" y="30" width="220" height="300" rx="8" fill="#ffffff" stroke="#d6d3d1" stroke-width="1.5"/>
+    <g id="scene">
+      <rect x="872" y="42" width="196" height="246" fill="#d6c9b4"/>
+      <ellipse cx="970" cy="288" rx="98" ry="10" fill="#b8a888" opacity="0.6"/>
+      <line x1="960" y1="252" x2="960" y2="196" stroke="#4d7c0f" stroke-width="5" stroke-linecap="round"/>
+      <ellipse cx="944" cy="232" rx="14" ry="7" fill="#4d7c0f" transform="rotate(-30 944 232)"/>
+      <ellipse cx="978" cy="220" rx="14" ry="7" fill="#4d7c0f" transform="rotate(25 978 220)"/>
+      <g id="rose">
+        <circle cx="960" cy="168" r="26" fill="#b91c1c"/>
+        <circle cx="948" cy="160" r="14" fill="#991b1b"/>
+        <circle cx="972" cy="162" r="12" fill="#dc2626"/>
+        <circle cx="960" cy="176" r="12" fill="#7f1d1d"/>
+        <circle cx="960" cy="168" r="6" fill="#450a0a"/>
+      </g>
+      <text x="1040" y="92" font-size="44" font-weight="700" fill="#1c1917" font-family="Georgia, 'Times New Roman', serif">?</text>
+    </g>
+    <text x="970" y="314" font-size="17" fill="#57534e" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">猜猜是哪支乐队？</text>
+  </g>
+</svg>
