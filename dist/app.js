@@ -18,4 +18,3 @@ $('#aboutBtn').onclick=()=>{$('#about').showModal();document.body.style.overflow
 document.addEventListener('keydown',e=>{if(!$('#viewer').open||['INPUT','TEXTAREA'].includes(e.target.tagName))return;if(e.key==='ArrowRight'){$('#guess').disabled=false;open(current+1)}if(e.key==='ArrowLeft'){$('#guess').disabled=false;open(current-1)}});
 fetch('data.json').then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(data=>{bands=data;render()}).catch(()=>{$('#grid').textContent='作品集暂时加载失败，请刷新页面重试。';$('#start').disabled=true;$('#random').disabled=true;$('#heroWork').disabled=true});
 
-fetch('downloads/manifest.json').then(r=>r.ok?r.json():Promise.reject()).then(m=>{$('#archiveSize').textContent=`${m.count} 张 PNG，约 ${(m.totalBytes/1024/1024).toFixed(0)} MB`;$('#downloadAll').download=m.filename}).catch(()=>{});
